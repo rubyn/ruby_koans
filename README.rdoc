@@ -1,3 +1,7 @@
+Working through Ruby koans one by one for ruby practice.
+Below is the original Ruby Koans readme with license information
+
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
