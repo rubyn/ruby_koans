@@ -122,6 +122,7 @@ class AboutIteration < Neo::Koan
   #
   # When you get to the "AboutSandwichCode" koan, recheck your answer.
   # ------
-  #
+  # Because it will allow abstracting of the opening and closing of the file to a library if desired
+  
 
 end
